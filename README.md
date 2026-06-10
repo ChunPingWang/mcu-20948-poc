@@ -140,6 +140,12 @@ ax(g), ay(g), az(g), gx(dps), gy(dps), gz(dps), mx(uT), my(uT), mz(uT), temp(C)
 
 ---
 
+## 相關專案
+
+- [pico-20948-poc](https://github.com/ChunPingWang/pico-20948-poc) — Raspberry Pi Pico 版本（MicroPython，3.3V 直接連接，無需電位轉換）
+
+---
+
 ## 授權
 
 MIT
