@@ -1,5 +1,7 @@
 # Arduino Uno × ICM-20948 PoC
 
+[![GitHub](https://img.shields.io/badge/GitHub-mcu--20948--poc-blue?logo=github)](https://github.com/ChunPingWang/mcu-20948-poc)
+
 Arduino Uno 整合 TDK ICM-20948 九軸 IMU（加速度計 + 陀螺儀 + 磁力計）的概念驗證專案。  
 提供三個層次的實作：函式庫版、暫存器直接操作版，以及自動化驗證測試套件。
 
